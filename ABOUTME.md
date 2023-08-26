@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kehinde99
+ I’m @Kehinde99
 - 👀 I’m interested in frontend software management 
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate with newbies and learn from the tech gurus here 
